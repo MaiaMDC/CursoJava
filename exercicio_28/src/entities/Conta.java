@@ -1,7 +1,7 @@
 package entities;
 
 public class Conta {
-
+	public static int danilo;
 	private int number;
 	private String holder;
 	private double balance;
